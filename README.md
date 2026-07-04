@@ -1,6 +1,6 @@
 # Shubhankar Mittal
 
-Building **[InboxOS](https://github.com/Shubhankar1/InboxOS)** at **[AutonomeX.ai](https://autonomex.ai)** —
+Building **[InboxOS](https://autonomex.ai)** at **[AutonomeX.ai](https://autonomex.ai)** —
 AI-assisted email triage for regulated client operations, with human review before every send.
 
 Most teams drown in unstructured inbox volume. I ship governed multi-agent systems that
