@@ -1,7 +1,5 @@
 # Shubhankar Mittal
 
-# Shubhankar Mittal
-
 CEO and Founder at **[AutonomeX.ai](https://autonomex.ai)** — building autonomous products for regulated operations.
 
 I lead **[InboxOS](https://autonomex.ai)**, a nine-agent LangGraph pipeline that handles email triage for wealth-management desks with full human oversight and audit trails. Most teams drown in unstructured inbox volume. We ship governed multi-agent systems that classify, extract, and route work — with compliance rails built in from day one.
