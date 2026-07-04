@@ -1,10 +1,12 @@
 # Shubhankar Mittal
 
-Building **[InboxOS](https://autonomex.ai)** at **[AutonomeX.ai](https://autonomex.ai)** —
-AI-assisted email triage for regulated client operations, with human review before every send.
+# Shubhankar Mittal
 
-Most teams drown in unstructured inbox volume. I ship governed multi-agent systems that
-classify, extract, and route email — with full audit trails and compliance rails built in.
+CEO and Founder at **[AutonomeX.ai](https://autonomex.ai)** — building autonomous products for regulated operations.
+
+I lead **[InboxOS](https://autonomex.ai)**, a nine-agent LangGraph pipeline that handles email triage for wealth-management desks with full human oversight and audit trails. Most teams drown in unstructured inbox volume. We ship governed multi-agent systems that classify, extract, and route work — with compliance rails built in from day one.
+
+**Background:** Senior AI Engineer across fintech and enterprise (Accenture, Kotak Mahindra Bank). IIT Bombay '19 (B.Tech Computer Science) + IIIT Bangalore '25 (M.Tech AI/ML).
 
 ### Focus
 
