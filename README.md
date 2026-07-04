@@ -20,19 +20,19 @@ single-tenant deploys for teams that cannot afford black-box automation.
 
 ### Building
 
-- **[InboxOS](https://github.com/Shubhankar1/InboxOS)** &nbsp;nine-agent LangGraph pipeline for wealth-management email desks — ingest, classify, extract, route, audit
-- **[AutonomeX.ai](https://autonomex.ai)** &nbsp;governed AI infrastructure for regulated operations — InboxOS is the email automation product
+- **[InboxOS](https://autonomex.ai)** — nine-agent LangGraph pipeline for wealth-management email desks — ingest, classify, extract, route, audit
+- **[AutonomeX.ai](https://autonomex.ai)** — governed AI infrastructure for regulated operations — InboxOS is the email automation product
 
 ### Also building
 
-- **[wyzer](https://github.com/Shubhankar1/wyzer)** &nbsp;value investing and climate risk analysis
-- **[VBVA](https://github.com/Shubhankar1/VBVA)** &nbsp;video-based virtual agents
+- **[wyzer](https://github.com/Shubhankar1/wyzer)** — value investing and climate risk analysis
+- **[VBVA](https://github.com/Shubhankar1/VBVA)** — video-based virtual agents
 
 ### Links
 
-- Site &nbsp;[autonomex.ai](https://autonomex.ai)
-- Email &nbsp;[sam@autonomex.ai](mailto:sam@autonomex.ai)
-- Company &nbsp;Mumbai · AutonomeX.ai
+- Site — [autonomex.ai](https://autonomex.ai)
+- Email — [ds.shubhankar@gmail.com](mailto:ds.shubhankar@gmail.com)
+- LinkedIn — [in/shubhankar-ai](https://linkedin.com/in/shubhankar-ai)
 
 ---
 
