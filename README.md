@@ -21,6 +21,7 @@ Regulated operations AI: multi-agent orchestration, human-in-the-loop workflows,
 
 - **[AutonomeX.ai](https://autonomex.ai)** — governed AI infrastructure for regulated operations
 - **[InboxOS](https://autonomex.ai)** — flagship product: agentic email triage for wealth-management and regulated ops teams
+- **[AutonomeX-HQ](https://github.com/AutonomeX-HQ)** — company GitHub organization (product repositories)
 
 ### Public work
 
