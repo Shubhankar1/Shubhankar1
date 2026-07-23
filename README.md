@@ -25,7 +25,6 @@ Regulated operations AI: multi-agent orchestration, human-in-the-loop workflows,
 
 ### Public work
 
-- **[Personal-Website](https://github.com/Shubhankar1/Personal-Website)** — founder portfolio site (React, Vite, TypeScript)
 - **[shubhankarmittal.com](https://shubhankarmittal.com)** — live portfolio site
 
 ### Links
