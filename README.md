@@ -1,34 +1,38 @@
 # Shubhankar Mittal
 
-CEO and Founder at **[AutonomeX.ai](https://autonomex.ai)** — building governed AI for regulated operations.
+Founder of **[AutonomeX](https://autonomex.ai)** — building enterprise intelligence systems that transform communication into governed execution.
 
-I lead **[InboxOS](https://autonomex.ai)**, a multi-agent LangGraph pipeline for wealth-management email desks: ingest, classify, extract, route, and audit — with human oversight and compliance rails built in from day one.
+**Thesis:** Autonomy, Governed. Useful autonomy under designed control — bounded, permissioned, observable, risk-sensitive, and accountable.
 
-**Background:** Senior AI Engineer across fintech and enterprise (Accenture, Kotak Mahindra Bank). IIT Bombay '19 (B.Tech Computer Science) + IIIT Bangalore '25 (M.Tech AI/ML).
+I build at the intersection of workflow intelligence, agent orchestration, human approval, auditability, compliance, and controlled execution.
+
+### Building
+
+- **[AutonomeX.ai](https://autonomex.ai)** — governed intelligence and execution systems for AI-native enterprises
+- **[InboxOS](https://autonomex.ai)** — flagship: industry-agnostic agentic email operations with vertical industry packs (ingest → classify → extract → route → draft → human send/close)
+- **[AutonomeX-HQ](https://github.com/AutonomeX-HQ)** — company GitHub organization (product repositories are private by design)
 
 ### Focus
 
-Regulated operations AI: multi-agent orchestration, human-in-the-loop workflows, and single-tenant deploys for teams that cannot afford black-box automation.
+Regulated and operationally complex work: multi-agent orchestration, human-in-the-loop when risk demands it, and systems teams can trust when black-box automation is not an option.
+
+### Background
+
+Enterprise AI product work across banking and consulting — Kotak Mahindra Bank, UBS, Deloitte, and Accenture — converting fragmented operational data into decisions and controlled action.
 
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FFD43B)
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=1C3C3C)
-
-### Building
-
-- **[AutonomeX.ai](https://autonomex.ai)** — governed AI infrastructure for regulated operations
-- **[InboxOS](https://autonomex.ai)** — flagship product: agentic email triage for wealth-management and regulated ops teams
-- **[AutonomeX-HQ](https://github.com/AutonomeX-HQ)** — company GitHub organization (product repositories)
 
 ### Public work
 
-- **[shubhankarmittal.com](https://shubhankarmittal.com)** — live portfolio site
+- **[shubhankarmittal.com](https://shubhankarmittal.com)** — founder portfolio site
+- **[Personal-Website](https://github.com/Shubhankar1/Personal-Website)** — source for the portfolio (React, Vite, TypeScript)
 
 ### Links
 
 - Company — [autonomex.ai](https://autonomex.ai)
+- Organization — [github.com/AutonomeX-HQ](https://github.com/AutonomeX-HQ)
 - LinkedIn — [in/shubhankar-ai](https://linkedin.com/in/shubhankar-ai)
-- Email — [ds.shubhankar@gmail.com](mailto:ds.shubhankar@gmail.com)
+- Email — [Sam@autonomex.ai](mailto:Sam@autonomex.ai)
