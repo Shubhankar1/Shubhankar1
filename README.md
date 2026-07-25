@@ -28,7 +28,6 @@ Enterprise AI product work across banking and consulting — Kotak Mahindra Bank
 ### Public work
 
 - **[shubhankarmittal.com](https://shubhankarmittal.com)** — founder portfolio site
-- **[Personal-Website](https://github.com/Shubhankar1/Personal-Website)** — source for the portfolio (React, Vite, TypeScript)
 
 ### Links
 
